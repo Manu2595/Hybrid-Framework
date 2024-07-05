@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8a69d94-d5f0-4464-8e5d-b9dad4a805d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/pageObjects/AddNewCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/pageObjects/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/testCases/BaseClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/testCases/ExcelDataTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/testCases/TC_AddCustomer_003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/testCases/TC_LoginDataDriven_002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/testCases/TC_LoginTest_001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/testdata/LoginData.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/utilities/ExcelDataSupplierSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/utilities/IListeners.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/utilities/ReadConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/utilities/XLUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/TestNG.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j2.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e8a69d94-d5f0-4464-8e5d-b9dad4a805d2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
