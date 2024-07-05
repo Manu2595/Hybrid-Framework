@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SeleniumAutomationHybridFramework]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.inetbanking.utilities.IListeners"/>
+  </listeners>
+  <test thread-count="5" name="BankingTest(failed)">
+    <parameter name="Browser" value="chrome"/>
+    <classes>
+      <class name="com.inetbanking.testCases.ExcelDataTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="testLogin" invocation-numbers="1 2"/>
+        </methods>
+      </class> <!-- com.inetbanking.testCases.ExcelDataTest -->
+    </classes>
+  </test> <!-- BankingTest(failed) -->
+</suite> <!-- Failed suite [SeleniumAutomationHybridFramework] -->

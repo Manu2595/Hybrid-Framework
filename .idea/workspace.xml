@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e8a69d94-d5f0-4464-8e5d-b9dad4a805d2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/pageObjects/AddNewCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/pageObjects/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/testCases/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/testCases/ExcelDataTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/testCases/TC_AddCustomer_003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/testCases/TC_LoginDataDriven_002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/testCases/TC_LoginTest_001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/testdata/LoginData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/utilities/ExcelDataSupplierSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/utilities/IListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/utilities/ReadConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/utilities/XLUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/TestNG.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j2.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2ih2QCTRo5uK9slfOvzaqplr6W5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.XLUtils.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.C:/Users/vyshn/IdeaProjects/SeleniumAutomationHybridFramework/TestNG.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/vyshn/IdeaProjects/SeleniumAutomationHybridFramework/src/test/resources/TestNG.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ExcelDataTest.testLogin.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TC_LoginTest_001.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TC_LoginTest_001.loginTest.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vyshn/IdeaProjects/SeleniumAutomationHybridFramework/src/test/java/com/inetbanking/testdata&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/vyshn/IdeaProjects/SeleniumAutomationHybridFramework/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vyshn\IdeaProjects\SeleniumAutomationHybridFramework\src\test\java\com\inetbanking\testdata" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vyshn\IdeaProjects\SeleniumAutomationHybridFramework\src\test\resources" />
+      <recent name="C:\Users\vyshn\IdeaProjects\SeleniumAutomationHybridFramework" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/vyshn/IdeaProjects/SeleniumAutomationHybridFramework/src/test/resources/TestNG.xml">
+    <configuration name="XLUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.inetbanking.utilities.XLUtils" />
+      <module name="SeleniumAutomationHybridFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.inetbanking.utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/vyshn/IdeaProjects/SeleniumAutomationHybridFramework/src/test/resources/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAutomationHybridFramework" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/TestNG.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcelDataTest.testLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAutomationHybridFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.inetbanking.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.inetbanking.testCases" />
+      <option name="MAIN_CLASS_NAME" value="com.inetbanking.testCases.ExcelDataTest" />
+      <option name="METHOD_NAME" value="testLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_LoginTest_001" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAutomationHybridFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.inetbanking.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.inetbanking.testCases" />
+      <option name="MAIN_CLASS_NAME" value="com.inetbanking.testCases.TC_LoginTest_001" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_LoginTest_001.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAutomationHybridFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.inetbanking.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.inetbanking.testCases" />
+      <option name="MAIN_CLASS_NAME" value="com.inetbanking.testCases.TC_LoginTest_001" />
+      <option name="METHOD_NAME" value="loginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.XLUtils" />
+      <item itemvalue="TestNG.ExcelDataTest.testLogin" />
+      <item itemvalue="TestNG.TC_LoginTest_001" />
+      <item itemvalue="TestNG.C:/Users/vyshn/IdeaProjects/SeleniumAutomationHybridFramework/src/test/resources/TestNG.xml" />
+      <item itemvalue="TestNG.TC_LoginTest_001.loginTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/vyshn/IdeaProjects/SeleniumAutomationHybridFramework/src/test/resources/TestNG.xml" />
+        <item itemvalue="TestNG.ExcelDataTest.testLogin" />
+        <item itemvalue="Application.XLUtils" />
+        <item itemvalue="TestNG.TC_LoginTest_001" />
+        <item itemvalue="TestNG.TC_LoginTest_001.loginTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.22-corretto-11.0.22-4caba194b151-868cef46" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8a69d94-d5f0-4464-8e5d-b9dad4a805d2" name="Changes" comment="" />
+      <created>1719928471514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719928471514</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:io.reactivex.rxjava3:rxjava" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-java" />
+    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

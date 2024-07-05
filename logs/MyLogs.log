@@ -1,0 +1,262 @@
+[2024-07-03 16:07:06.785] [main] INFO  com.inetbanking.testCases.BaseClass - Driver initialized
+[2024-07-03 16:07:11.702] [main] INFO  com.inetbanking.testCases.BaseClass - Url is opened
+[2024-07-03 16:07:11.910] [main] INFO  com.inetbanking.testCases.BaseClass - username is entered
+[2024-07-03 16:15:27.403] [main] INFO  com.inetbanking.testCases.BaseClass - Driver initialized
+[2024-07-03 16:15:33.719] [main] INFO  com.inetbanking.testCases.BaseClass - Url is opened
+[2024-07-03 16:15:34.019] [main] INFO  com.inetbanking.testCases.BaseClass - username is entered
+[2024-07-03 16:20:37.687] [main] INFO  com.inetbanking.testCases.BaseClass - Driver initialized
+[2024-07-03 16:20:42.861] [main] INFO  com.inetbanking.testCases.BaseClass - Url is opened
+[2024-07-03 16:20:43.084] [main] INFO  com.inetbanking.testCases.BaseClass - username is entered
+[2024-07-03 16:26:35.783] [main] INFO  com.inetbanking.testCases.BaseClass - Driver initialized
+[2024-07-03 16:26:41.767] [main] INFO  com.inetbanking.testCases.BaseClass - Url is opened
+[2024-07-03 16:26:42.003] [main] INFO  com.inetbanking.testCases.BaseClass - username is entered
+[2024-07-03 16:33:02.724] [main] DEBUG com.inetbanking.testCases.BaseClass - Driver initialized
+[2024-07-03 16:33:07.759] [main] INFO  com.inetbanking.testCases.BaseClass - Url is opened
+[2024-07-03 16:33:08.001] [main] INFO  com.inetbanking.testCases.BaseClass - username is entered
+[2024-07-03 16:42:27.312] [main] INFO  ebanking - Driver initialized
+[2024-07-03 16:42:32.138] [main] INFO  ebanking - Url is opened
+[2024-07-03 16:42:32.392] [main] INFO  ebanking - username is entered
+[2024-07-03 16:43:26.587] [main] INFO  ebanking - Driver initialized
+[2024-07-03 16:43:26.587] [main] INFO  ebanking - Driver initialized
+[2024-07-03 16:43:30.750] [main] INFO  ebanking - Url is opened
+[2024-07-03 16:43:30.750] [main] INFO  ebanking - Url is opened
+[2024-07-03 16:43:31.019] [main] INFO  ebanking - username is entered
+[2024-07-03 16:43:31.019] [main] INFO  ebanking - username is entered
+[2024-07-03 21:24:21.056] [main] INFO  ebanking - Driver initialized
+[2024-07-03 21:24:21.056] [main] INFO  ebanking - Driver initialized
+[2024-07-03 21:24:26.958] [main] INFO  ebanking - Url is opened
+[2024-07-03 21:24:26.958] [main] INFO  ebanking - Url is opened
+[2024-07-03 21:24:27.254] [main] INFO  ebanking - username is entered
+[2024-07-03 21:24:27.254] [main] INFO  ebanking - username is entered
+[2024-07-03 21:28:07.783] [main] INFO  ebanking - Driver initialized
+[2024-07-03 21:28:07.783] [main] INFO  ebanking - Driver initialized
+[2024-07-03 21:28:12.915] [main] INFO  ebanking - Url is opened
+[2024-07-03 21:28:12.915] [main] INFO  ebanking - Url is opened
+[2024-07-03 21:28:13.147] [main] INFO  ebanking - username is entered
+[2024-07-03 21:28:13.147] [main] INFO  ebanking - username is entered
+[2024-07-03 21:28:53.690] [main] INFO  ebanking - Driver initialized
+[2024-07-03 21:28:53.690] [main] INFO  ebanking - Driver initialized
+[2024-07-03 21:28:58.151] [main] INFO  ebanking - Url is opened
+[2024-07-03 21:28:58.151] [main] INFO  ebanking - Url is opened
+[2024-07-03 21:28:58.393] [main] INFO  ebanking - username is entered
+[2024-07-03 21:28:58.393] [main] INFO  ebanking - username is entered
+[2024-07-03 21:34:10.715] [main] INFO  ebanking - Driver initialized
+[2024-07-03 21:34:10.715] [main] INFO  ebanking - Driver initialized
+[2024-07-03 21:34:16.420] [main] INFO  ebanking - Url is opened
+[2024-07-03 21:34:16.420] [main] INFO  ebanking - Url is opened
+[2024-07-03 21:34:16.721] [main] INFO  ebanking - username is entered
+[2024-07-03 21:34:16.721] [main] INFO  ebanking - username is entered
+[2024-07-03 21:38:56.370] [main] INFO  ebanking - Driver initialized
+[2024-07-03 21:38:56.370] [main] INFO  ebanking - Driver initialized
+[2024-07-03 21:39:02.000] [main] INFO  ebanking - Url is opened
+[2024-07-03 21:39:02.000] [main] INFO  ebanking - Url is opened
+[2024-07-03 21:39:02.239] [main] INFO  ebanking - username is entered
+[2024-07-03 21:39:02.239] [main] INFO  ebanking - username is entered
+[2024-07-03 21:57:15.877] [main] INFO  ebanking - Driver initialized
+[2024-07-03 21:57:15.877] [main] INFO  ebanking - Driver initialized
+[2024-07-03 21:57:20.359] [main] INFO  ebanking - Url is opened
+[2024-07-03 21:57:20.359] [main] INFO  ebanking - Url is opened
+[2024-07-03 21:57:20.620] [main] INFO  ebanking - username is entered
+[2024-07-03 21:57:20.620] [main] INFO  ebanking - username is entered
+[2024-07-03 21:57:34.571] [main] INFO  ebanking - Driver initialized
+[2024-07-03 21:57:34.571] [main] INFO  ebanking - Driver initialized
+[2024-07-03 21:57:38.820] [main] INFO  ebanking - Url is opened
+[2024-07-03 21:57:38.820] [main] INFO  ebanking - Url is opened
+[2024-07-03 21:57:39.011] [main] INFO  ebanking - username is entered
+[2024-07-03 21:57:39.011] [main] INFO  ebanking - username is entered
+[2024-07-03 22:12:09.901] [main] INFO  ebanking - Driver initialized
+[2024-07-03 22:12:09.901] [main] INFO  ebanking - Driver initialized
+[2024-07-03 22:12:13.129] [main] INFO  ebanking - Url is opened
+[2024-07-03 22:12:13.129] [main] INFO  ebanking - Url is opened
+[2024-07-03 22:12:15.655] [main] INFO  ebanking - username is entered
+[2024-07-03 22:12:15.655] [main] INFO  ebanking - username is entered
+[2024-07-03 22:24:33.110] [main] INFO  ebanking - Driver initialized
+[2024-07-03 22:24:33.110] [main] INFO  ebanking - Driver initialized
+[2024-07-03 22:24:38.771] [main] INFO  ebanking - Url is opened
+[2024-07-03 22:24:38.771] [main] INFO  ebanking - Url is opened
+[2024-07-03 22:24:39.019] [main] INFO  ebanking - username is entered
+[2024-07-03 22:24:39.019] [main] INFO  ebanking - username is entered
+[2024-07-03 22:29:38.049] [main] INFO  ebanking - Driver initialized
+[2024-07-03 22:29:38.049] [main] INFO  ebanking - Driver initialized
+[2024-07-03 22:29:40.561] [main] INFO  ebanking - Url is opened
+[2024-07-03 22:29:40.561] [main] INFO  ebanking - Url is opened
+[2024-07-03 22:29:42.435] [main] INFO  ebanking - username is entered
+[2024-07-03 22:29:42.435] [main] INFO  ebanking - username is entered
+[2024-07-03 22:46:18.813] [main] INFO  ebanking - Driver initialized
+[2024-07-03 22:46:18.813] [main] INFO  ebanking - Driver initialized
+[2024-07-03 22:46:24.150] [main] INFO  ebanking - Url is opened
+[2024-07-03 22:46:24.150] [main] INFO  ebanking - Url is opened
+[2024-07-03 22:46:24.471] [main] INFO  ebanking - username is entered
+[2024-07-03 22:46:24.471] [main] INFO  ebanking - username is entered
+[2024-07-03 23:28:29.358] [main] INFO  ebanking - Driver initialized
+[2024-07-03 23:28:29.358] [main] INFO  ebanking - Driver initialized
+[2024-07-03 23:28:35.683] [main] INFO  ebanking - Url is opened
+[2024-07-03 23:28:35.683] [main] INFO  ebanking - Url is opened
+[2024-07-03 23:28:35.984] [main] INFO  ebanking - username is entered
+[2024-07-03 23:28:35.984] [main] INFO  ebanking - username is entered
+[2024-07-03 23:29:37.619] [main] INFO  ebanking - Driver initialized
+[2024-07-03 23:29:37.619] [main] INFO  ebanking - Driver initialized
+[2024-07-03 23:29:40.512] [main] INFO  ebanking - Url is opened
+[2024-07-03 23:29:40.512] [main] INFO  ebanking - Url is opened
+[2024-07-03 23:29:42.464] [main] INFO  ebanking - username is entered
+[2024-07-03 23:29:42.464] [main] INFO  ebanking - username is entered
+[2024-07-03 23:34:41.623] [main] INFO  ebanking - Driver initialized
+[2024-07-03 23:34:41.623] [main] INFO  ebanking - Driver initialized
+[2024-07-03 23:34:44.557] [main] INFO  ebanking - Url is opened
+[2024-07-03 23:34:44.557] [main] INFO  ebanking - Url is opened
+[2024-07-03 23:34:47.346] [main] INFO  ebanking - username is entered
+[2024-07-03 23:34:47.346] [main] INFO  ebanking - username is entered
+[2024-07-04 01:01:53.374] [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2024-07-04 01:01:53.383] [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2024-07-04 01:02:50.722] [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2024-07-04 01:02:50.745] [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2024-07-04 01:03:02.488] [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2024-07-04 01:03:02.494] [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2024-07-04 01:19:04.936] [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2024-07-04 01:19:04.963] [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2024-07-04 01:19:18.495] [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2024-07-04 01:19:18.520] [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2024-07-04 01:23:35.028] [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2024-07-04 01:23:35.052] [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2024-07-04 02:09:23.909] [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2024-07-04 02:09:23.913] [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2024-07-04 02:11:47.007] [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2024-07-04 02:11:47.011] [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2024-07-04 02:14:22.461] [main] INFO  ebanking - Driver initialized
+[2024-07-04 02:14:22.461] [main] INFO  ebanking - Driver initialized
+[2024-07-04 02:14:27.147] [main] INFO  ebanking - Url is opened
+[2024-07-04 02:14:27.147] [main] INFO  ebanking - Url is opened
+[2024-07-04 02:14:27.329] [main] INFO  ebanking - username is entered
+[2024-07-04 02:14:27.329] [main] INFO  ebanking - username is entered
+[2024-07-04 02:15:06.515] [main] INFO  ebanking - Driver initialized
+[2024-07-04 02:15:06.515] [main] INFO  ebanking - Driver initialized
+[2024-07-04 02:15:09.145] [main] INFO  ebanking - Url is opened
+[2024-07-04 02:15:09.145] [main] INFO  ebanking - Url is opened
+[2024-07-04 02:15:11.499] [main] INFO  ebanking - username is entered
+[2024-07-04 02:15:11.499] [main] INFO  ebanking - username is entered
+[2024-07-04 02:32:45.323] [main] INFO  ebanking - Driver initialized
+[2024-07-04 02:32:45.323] [main] INFO  ebanking - Driver initialized
+[2024-07-04 02:32:50.568] [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2024-07-04 02:32:50.570] [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2024-07-04 02:39:58.893] [main] INFO  ebanking - Driver initialized
+[2024-07-04 02:39:58.893] [main] INFO  ebanking - Driver initialized
+[2024-07-04 02:40:04.696] [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2024-07-04 02:40:04.701] [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2024-07-04 16:25:08.990] [main] INFO  ebanking - Driver initialized
+[2024-07-04 16:25:08.990] [main] INFO  ebanking - Driver initialized
+[2024-07-04 16:25:14.460] [main] INFO  ebanking - Url is opened
+[2024-07-04 16:25:14.460] [main] INFO  ebanking - Url is opened
+[2024-07-04 16:25:14.727] [main] INFO  ebanking - username is entered
+[2024-07-04 16:25:14.727] [main] INFO  ebanking - username is entered
+[2024-07-04 16:26:39.347] [main] INFO  ebanking - Driver initialized
+[2024-07-04 16:26:39.347] [main] INFO  ebanking - Driver initialized
+[2024-07-04 16:26:43.374] [main] INFO  ebanking - Url is opened
+[2024-07-04 16:26:43.374] [main] INFO  ebanking - Url is opened
+[2024-07-04 16:26:43.589] [main] INFO  ebanking - username is entered
+[2024-07-04 16:26:43.589] [main] INFO  ebanking - username is entered
+[2024-07-04 18:32:00.005] [main] INFO  ebanking - Driver initialized
+[2024-07-04 18:32:00.005] [main] INFO  ebanking - Driver initialized
+[2024-07-04 18:32:05.360] [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2024-07-04 18:32:05.364] [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2024-07-04 18:32:09.812] [main] INFO  ebanking - Login is passed
+[2024-07-04 18:32:09.812] [main] INFO  ebanking - Login is passed
+[2024-07-04 18:32:27.629] [main] INFO  ebanking - Login is passed
+[2024-07-04 18:32:27.629] [main] INFO  ebanking - Login is passed
+[2024-07-04 18:35:02.742] [main] INFO  ebanking - Driver initialized
+[2024-07-04 18:35:02.742] [main] INFO  ebanking - Driver initialized
+[2024-07-04 18:35:05.471] [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2024-07-04 18:35:05.474] [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2024-07-04 18:35:11.509] [main] INFO  ebanking - Login is passed
+[2024-07-04 18:35:11.509] [main] INFO  ebanking - Login is passed
+[2024-07-04 18:35:30.582] [main] INFO  ebanking - Login is passed
+[2024-07-04 18:35:30.582] [main] INFO  ebanking - Login is passed
+[2024-07-04 21:35:31.214] [main] INFO  ebanking - Driver initialized
+[2024-07-04 21:35:31.214] [main] INFO  ebanking - Driver initialized
+[2024-07-04 21:35:37.743] [main] INFO  ebanking - User name is provided
+[2024-07-04 21:35:37.743] [main] INFO  ebanking - User name is provided
+[2024-07-04 21:35:37.817] [main] INFO  ebanking - User password is provided
+[2024-07-04 21:35:37.817] [main] INFO  ebanking - User password is provided
+[2024-07-04 21:35:41.761] [main] INFO  ebanking - Customer details are provided
+[2024-07-04 21:35:41.761] [main] INFO  ebanking - Customer details are provided
+[2024-07-04 21:59:41.585] [main] INFO  ebanking - Driver initialized
+[2024-07-04 21:59:41.585] [main] INFO  ebanking - Driver initialized
+[2024-07-04 21:59:46.210] [main] INFO  ebanking - User name is provided
+[2024-07-04 21:59:46.210] [main] INFO  ebanking - User name is provided
+[2024-07-04 21:59:46.283] [main] INFO  ebanking - User password is provided
+[2024-07-04 21:59:46.283] [main] INFO  ebanking - User password is provided
+[2024-07-04 21:59:50.371] [main] INFO  ebanking - Customer details are provided
+[2024-07-04 21:59:50.371] [main] INFO  ebanking - Customer details are provided
+[2024-07-04 22:03:39.879] [main] INFO  ebanking - Driver initialized
+[2024-07-04 22:03:39.879] [main] INFO  ebanking - Driver initialized
+[2024-07-04 22:03:43.858] [main] INFO  ebanking - User name is provided
+[2024-07-04 22:03:43.858] [main] INFO  ebanking - User name is provided
+[2024-07-04 22:03:43.940] [main] INFO  ebanking - User password is provided
+[2024-07-04 22:03:43.940] [main] INFO  ebanking - User password is provided
+[2024-07-04 22:03:48.263] [main] INFO  ebanking - Customer details are provided
+[2024-07-04 22:03:48.263] [main] INFO  ebanking - Customer details are provided
+[2024-07-04 22:10:39.419] [main] INFO  ebanking - Driver initialized
+[2024-07-04 22:10:39.419] [main] INFO  ebanking - Driver initialized
+[2024-07-04 22:10:43.950] [main] INFO  ebanking - User name is provided
+[2024-07-04 22:10:43.950] [main] INFO  ebanking - User name is provided
+[2024-07-04 22:10:44.030] [main] INFO  ebanking - User password is provided
+[2024-07-04 22:10:44.030] [main] INFO  ebanking - User password is provided
+[2024-07-04 22:10:48.415] [main] INFO  ebanking - Customer details are provided
+[2024-07-04 22:10:48.415] [main] INFO  ebanking - Customer details are provided
+[2024-07-04 22:12:11.079] [main] INFO  ebanking - Driver initialized
+[2024-07-04 22:12:11.079] [main] INFO  ebanking - Driver initialized
+[2024-07-04 22:12:15.921] [main] INFO  ebanking - User name is provided
+[2024-07-04 22:12:15.921] [main] INFO  ebanking - User name is provided
+[2024-07-04 22:12:16.004] [main] INFO  ebanking - User password is provided
+[2024-07-04 22:12:16.004] [main] INFO  ebanking - User password is provided
+[2024-07-04 22:12:20.076] [main] INFO  ebanking - Customer details are provided
+[2024-07-04 22:12:20.076] [main] INFO  ebanking - Customer details are provided
+[2024-07-04 22:13:46.934] [main] INFO  ebanking - Driver initialized
+[2024-07-04 22:13:46.934] [main] INFO  ebanking - Driver initialized
+[2024-07-04 22:13:50.718] [main] INFO  ebanking - User name is provided
+[2024-07-04 22:13:50.718] [main] INFO  ebanking - User name is provided
+[2024-07-04 22:13:50.797] [main] INFO  ebanking - User password is provided
+[2024-07-04 22:13:50.797] [main] INFO  ebanking - User password is provided
+[2024-07-04 22:13:54.757] [main] INFO  ebanking - Customer details are provided
+[2024-07-04 22:13:54.757] [main] INFO  ebanking - Customer details are provided
+[2024-07-04 22:16:01.365] [main] INFO  ebanking - Driver initialized
+[2024-07-04 22:16:01.365] [main] INFO  ebanking - Driver initialized
+[2024-07-04 22:16:05.411] [main] INFO  ebanking - User name is provided
+[2024-07-04 22:16:05.411] [main] INFO  ebanking - User name is provided
+[2024-07-04 22:16:05.490] [main] INFO  ebanking - User password is provided
+[2024-07-04 22:16:05.490] [main] INFO  ebanking - User password is provided
+[2024-07-04 22:16:09.581] [main] INFO  ebanking - Customer details are provided
+[2024-07-04 22:16:09.581] [main] INFO  ebanking - Customer details are provided
+[2024-07-05 00:05:52.622] [main] INFO  ebanking - Driver initialized
+[2024-07-05 00:05:52.622] [main] INFO  ebanking - Driver initialized
+[2024-07-05 00:05:58.086] [main] INFO  ebanking - User name is provided
+[2024-07-05 00:05:58.086] [main] INFO  ebanking - User name is provided
+[2024-07-05 00:05:58.156] [main] INFO  ebanking - User password is provided
+[2024-07-05 00:05:58.156] [main] INFO  ebanking - User password is provided
+[2024-07-05 00:06:02.132] [main] INFO  ebanking - Customer details are provided
+[2024-07-05 00:06:02.132] [main] INFO  ebanking - Customer details are provided
+[2024-07-05 00:06:12.612] [main] INFO  ebanking - Test case is passed
+[2024-07-05 00:06:12.612] [main] INFO  ebanking - Test case is passed
+[2024-07-05 00:10:15.505] [main] INFO  ebanking - Driver initialized
+[2024-07-05 00:10:15.505] [main] INFO  ebanking - Driver initialized
+[2024-07-05 00:10:20.373] [main] INFO  ebanking - Url is opened
+[2024-07-05 00:10:20.373] [main] INFO  ebanking - Url is opened
+[2024-07-05 00:10:20.545] [main] INFO  ebanking - username is entered
+[2024-07-05 00:10:20.545] [main] INFO  ebanking - username is entered
+[2024-07-05 00:10:23.085] [main] INFO  ebanking - Driver initialized
+[2024-07-05 00:10:23.085] [main] INFO  ebanking - Driver initialized
+[2024-07-05 00:10:27.778] [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2024-07-05 00:10:27.779] [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2024-07-05 00:10:32.396] [main] INFO  ebanking - Login is passed
+[2024-07-05 00:10:32.396] [main] INFO  ebanking - Login is passed
+[2024-07-05 00:10:49.830] [main] INFO  ebanking - Login is passed
+[2024-07-05 00:10:49.830] [main] INFO  ebanking - Login is passed
+[2024-07-05 00:10:52.124] [main] INFO  ebanking - Driver initialized
+[2024-07-05 00:10:52.124] [main] INFO  ebanking - Driver initialized
+[2024-07-05 00:10:55.922] [main] INFO  ebanking - User name is provided
+[2024-07-05 00:10:55.922] [main] INFO  ebanking - User name is provided
+[2024-07-05 00:10:56.001] [main] INFO  ebanking - User password is provided
+[2024-07-05 00:10:56.001] [main] INFO  ebanking - User password is provided
+[2024-07-05 00:10:59.716] [main] INFO  ebanking - Customer details are provided
+[2024-07-05 00:10:59.716] [main] INFO  ebanking - Customer details are provided
+[2024-07-05 00:11:10.825] [main] INFO  ebanking - Test case is passed
+[2024-07-05 00:11:10.825] [main] INFO  ebanking - Test case is passed
